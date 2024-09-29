@@ -10,7 +10,6 @@
 - 🔭  I'm a naive student major in CS, learning interesting things is my passion of life.
 - 🌱  I speak 2 languages: Chinese(native), English(intermediate).
 - ☕  Java, Cpp, Python, Go
-- 💬  I write my own ✈️✈️[blogs](https://nand.fun/)✈️✈️ in my spare time. If you like, welcome to this unknown site.
 
 <hr/>
 
