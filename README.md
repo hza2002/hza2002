@@ -9,7 +9,7 @@
 
 - 🔭  I'm a naive student major in CS, learning interesting things is my passion of life.
 - 🌱  I speak 2 languages: Chinese(native), English(intermediate).
-- ☕  Java, Cpp, Python, Go
+- ☕  Java, Cpp, Python, Go...
 
 <hr/>
 
